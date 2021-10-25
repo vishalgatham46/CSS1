@@ -7,5 +7,6 @@ body{
 }
 .sty{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    word-spacing: 20px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
 }
