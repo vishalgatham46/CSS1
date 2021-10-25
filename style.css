@@ -1,6 +1,9 @@
 body{
     color: brown;
 }
+h2{
+    color: orangered;
+}
 .bgc{
     background-color: yellow;
     text-decoration: none ;
