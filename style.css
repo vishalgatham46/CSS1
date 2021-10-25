@@ -1,0 +1,11 @@
+body{
+    color: brown;
+}
+.bgc{
+    background-color: yellow;
+    text-decoration: none ;
+}
+.sty{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: 20px;
+}
